@@ -1,0 +1,3 @@
+- Dichiarare e popolare un vettore 'listaDellaSpesa'
+- Stampare gli elementi del vettore 'listaDellaSpesa' con append() fin tanto che i < listaDellaSpesa.lenght
+- visualizzare a schermo sull'html
